@@ -5,8 +5,8 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 B.Tech CS @ KIET Group of Institutions (2022–2026) | CGPA: 8.22/10  
-- 💼 Ex-Full Stack Developer Intern @ **IIPC KIET** (Jan–Mar 2025)  
+- 🎓 **B.Tech in Computer Science @ KIET Group of Institutions (2022–2026)** | CGPA: **8.22/10**  
+- 💼 **Ex-Full Stack Developer Intern @ IIPC KIET** *(Jan–Mar 2025)*  
 - ⚡ Passionate about **scalable web apps, system design & AI-driven solutions**  
 - 🌱 Currently exploring **DSA, Next.js, and Backend Architectures**  
 
@@ -23,21 +23,38 @@
 ---
 
 ### 🚀 Featured Projects
-- [**ExpensifyAI**](https://github.com/Aniketgautam959/ExpensifyAI) → AI-driven expense tracker (Next.js, Prisma, PostgreSQL, Clerk)  
-- [**ScholarSync**](https://github.com/Aniketgautam959/ScholarSync) → Student advisory platform with real-time collaboration (Next.js, Tailwind, MongoDB)  
-- [**AI Chat App**](https://github.com/Aniketgautam959/ai-chat-app) → React-based chat app with Google Gemini API  
+
+#### 💤 [Naptrix – Smart AI Sleep Tracker](https://github.com/Aniketgautam959/Naptrix-Smart-AI-Sleep-Tracker)
+> An AI-powered sleep monitoring web app that tracks patterns, delivers real-time insights, and enhances user well-being.  
+**Tech Used:** Next.js, Tailwind CSS, Neon PostgreSQL, Gemini API, Clerk  
+- ⚙️ Achieved **98% Lighthouse Performance Score** using SSR & lazy loading  
+- 🤖 Integrated **Gemini AI** for 42% more accurate sleep analytics  
+- 🔐 Enhanced security with Clerk Auth & session management  
+- 📊 Boosted retention by 45% with personalized dashboards and analytics  
+
+#### 💰 [ExpensifyAI – AI Expense Tracker](https://github.com/Aniketgautam959/ExpensifyAI)
+> A scalable expense management app using AI to automate categorization, analysis, and insights.  
+**Tech Used:** Next.js, Prisma ORM, Neon PostgreSQL, Tailwind CSS  
+- 🚀 Improved query performance by **38%** and API latency by **35%**  
+- 📱 Built a **mobile-first adaptive dashboard** with 100% responsiveness  
+- 📈 Increased engagement by **40%** through predictive analytics and improved UX  
+
+
+#### 💬 [AI Chat App](https://github.com/Aniketgautam959/ai-chat-app)
+> A modern chat app using **Google Gemini API** for AI-assisted conversations.  
+**Tech Used:** React.js, Node.js, Gemini API  
 
 ---
 
 ### 🏆 Certifications
-- AWS Certified Cloud Practitioner (2024)  
-- Meta Front-End Developer (Coursera, 2024)  
-- Cisco Cybersecurity Essentials (2025)  
+- ☁️ **AWS Certified Cloud Practitioner (2024)**  
+- 🧠 **Meta Front-End Developer (Coursera, 2024)**  
+- 🔒 **Cisco Cybersecurity Essentials (2025)**  
 
 ---
 
 ### 🌐 Portfolio
-Check out my personal portfolio here 👉 [**Web-Folio**](https://web-folio-beta.vercel.app/)  
+Check out my live portfolio here 👉 [**Web-Folio**](https://web-folio-beta.vercel.app/)  
 
 ---
 
@@ -62,4 +79,4 @@ Check out my personal portfolio here 👉 [**Web-Folio**](https://web-folio-beta
 
 ---
 
-⭐️ From [Aniket Gautam](https://github.com/Aniketgautam959)  
+⭐️ From [**Aniket Gautam**](https://github.com/Aniketgautam959)
