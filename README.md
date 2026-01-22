@@ -14,7 +14,7 @@
 
 ### 🛠️ Tech Stack
 - **Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS, TypeScript, JavaScript (ES6+)  
-- **Backend:** REST APIs, GraphQL, Node.js  
+- **Backend:** REST APIs, Node.js  
 - **Databases:** MongoDB, Firebase, PostgreSQL, Prisma, Neon  
 - **Auth & Security:** Clerk, OAuth, Session Management  
 - **Tools:** Git, GitHub, Postman, Figma, Cursor, VS Code  
