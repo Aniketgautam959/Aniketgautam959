@@ -39,11 +39,6 @@
 - 📱 Built a **mobile-first adaptive dashboard** with 100% responsiveness  
 - 📈 Increased engagement by **40%** through predictive analytics and improved UX  
 
-
-#### 💬 [AI Chat App](https://github.com/Aniketgautam959/ai-chat-app)
-> A modern chat app using **Google Gemini API** for AI-assisted conversations.  
-**Tech Used:** React.js, Node.js, Gemini API  
-
 ---
 
 ### 🏆 Certifications
@@ -79,4 +74,4 @@ Check out my live portfolio here 👉 [**Web-Folio**](https://web-folio-beta.ver
 
 ---
 
-⭐️ From [**Aniket Gautam**](https://github.com/Aniketgautam959)
+From [**Aniket Gautam**](https://github.com/Aniketgautam959)
