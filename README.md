@@ -5,7 +5,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 **B.Tech in Computer Science @ KIET Group of Institutions (2022–2026)** | CGPA: **8.22/10**  
+- 🎓 **B.Tech in Computer Science @ KIET Group of Institutions (2022–2026)** | CGPA: **7.7/10**  
 - 💼 **Ex-Full Stack Developer Intern @ IIPC KIET** *(Jan–Mar 2025)*  
 - ⚡ Passionate about **scalable web apps, system design & AI-driven solutions**  
 - 🌱 Currently exploring **DSA, Next.js, and Backend Architectures**  
