@@ -1,77 +1,18 @@
-# Hi there, I'm Aniket Gautam 👋  
+<h1 align="center">Hi 👋, I'm Aniket Gautam</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-💻 **Full Stack Developer** | 🎨 **UI/UX Enthusiast** | 🚀 **Tech Explorer**  
+- 🔭 I’m currently working on [TaskifyMinutes](https://taskify-minutes.vercel.app/)
 
----
+- 👨‍💻 All of my projects are available at [https://web-folio-beta.vercel.app/](https://web-folio-beta.vercel.app/)
 
-### 👨‍💻 About Me
-- 🎓 **B.Tech in Computer Science @ KIET Group of Institutions (2022–2026)** | CGPA: **7.7/10**  
-- 💼 **Ex-Full Stack Developer Intern @ IIPC KIET** *(Jan–Mar 2025)*  
-- ⚡ Passionate about **scalable web apps, system design & AI-driven solutions**  
-- 🌱 Currently exploring **DSA, Next.js, and Backend Architectures**  
+- 💬 Ask me about **Next.js, Reactjs, JavaScript, Tailwind CSS & Clerk authentication**
 
----
+- 📫 How to reach me **aniket10bhp@gmail.com**
 
-### 🛠️ Tech Stack
-- **Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS, TypeScript, JavaScript (ES6+)  
-- **Backend:** REST APIs, Node.js  
-- **Databases:** MongoDB, Firebase, PostgreSQL, Prisma, Neon  
-- **Auth & Security:** Clerk, OAuth, Session Management  
-- **Tools:** Git, GitHub, Postman, Figma, Cursor, VS Code  
-- **Concepts:** DSA, OOP, System Design, Agile, MVC, Performance Optimization  
-
----
-
-### 🚀 Featured Projects
-
-#### 💤 [Naptrix – Smart AI Sleep Tracker](https://github.com/Aniketgautam959/Naptrix-Smart-AI-Sleep-Tracker)
-> An AI-powered sleep monitoring web app that tracks patterns, delivers real-time insights, and enhances user well-being.  
-**Tech Used:** Next.js, Tailwind CSS, Neon PostgreSQL, Gemini API, Clerk  
-- ⚙️ Achieved **98% Lighthouse Performance Score** using SSR & lazy loading  
-- 🤖 Integrated **Gemini AI** for 42% more accurate sleep analytics  
-- 🔐 Enhanced security with Clerk Auth & session management  
-- 📊 Boosted retention by 45% with personalized dashboards and analytics  
-
-#### 💰 [ExpensifyAI – AI Expense Tracker](https://github.com/Aniketgautam959/ExpensifyAI)
-> A scalable expense management app using AI to automate categorization, analysis, and insights.  
-**Tech Used:** Next.js, Prisma ORM, Neon PostgreSQL, Tailwind CSS  
-- 🚀 Improved query performance by **38%** and API latency by **35%**  
-- 📱 Built a **mobile-first adaptive dashboard** with 100% responsiveness  
-- 📈 Increased engagement by **40%** through predictive analytics and improved UX  
-
----
-
-### 🏆 Certifications
-- ☁️ **AWS Certified Cloud Practitioner (2024)**  
-- 🧠 **Meta Front-End Developer (Coursera, 2024)**  
-- 🔒 **Cisco Cybersecurity Essentials (2025)**  
-
----
-
-### 🌐 Portfolio
-Check out my live portfolio here 👉 [**Web-Folio**](https://web-folio-beta.vercel.app/)  
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aniketgautam959&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniketgautam959&theme=radical" alt="GitHub Streak" height="160"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.topcoder.com/members/201009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="201009" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketgautam959&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>
-
----
-
-### 📫 Connect With Me
-- 📧 [aniket10bhp@gmail.com](mailto:aniket10bhp@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/aniket-gautam-883053278/)  
-- 🖥️ [GitHub](https://github.com/Aniketgautam959)  
-- 🏆 [LeetCode](https://leetcode.com/u/Aniketgautam901314/)  
-- 🌐 [Portfolio](https://web-folio-beta.vercel.app/)  
-
----
-
-From [**Aniket Gautam**](https://github.com/Aniketgautam959)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
