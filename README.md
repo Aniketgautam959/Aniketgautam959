@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aniket Gautam</h1>
-<h3 align="center">Full Stack Developer | UI/UX Designer</h3>
+<h1 align="center">Hi,I'm Aniket Gautam</h1>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
   🚀 Building scalable web apps<br/>
